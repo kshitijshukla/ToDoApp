@@ -1,0 +1,20 @@
+table{
+    width: 85rem;
+    height: 10rem;
+    background-color: rgb(148, 148, 155);
+    text-align: center;
+}
+ .header{
+   
+    
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+.header3{
+    
+}
+
+.button{
+    background-color: green;
+    border-radius: .4rem;
+}
